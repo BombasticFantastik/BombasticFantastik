@@ -7,7 +7,7 @@
 <div align="center">
   <h2>My stats</h2>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BombasticFantastik&layout=compact) ![BombasticFantastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=BombasticFantastik&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BombasticFantastik&theme=dark&locale=en&hide_border=false") ![BombasticFantastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=BombasticFantastik&show_icons=true&theme=radical)
 </div>
 <h2>Python Frameworks that I work with</h2>
 
