@@ -4,8 +4,6 @@
   
 </div>
 
-![](https://komarev.com/ghpvc/?username=BombasticFantastik&color=green)
-
 <h2>My stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BombasticFantastik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -25,3 +23,4 @@
 <h2>My favorite projects</h2>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BombasticFantastik&repo=Dop_Zadanie)](https://github.com/BombasticFantastik/Dop_Zadanie.git)
 
+![](https://komarev.com/ghpvc/?username=BombasticFantastik&style=for-the-badge)
