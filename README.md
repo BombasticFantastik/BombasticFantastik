@@ -3,6 +3,7 @@
 
   
 </div>
+![](https://komarev.com/ghpvc/?username=BombasticFantastik&color=green)
 
 <h2>My stats</h2>
 <div align="center">
