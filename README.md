@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi, my name is Artemy!</h1>
-    <p> Here, right now on <b> your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community on the planet! </p>
-    <p> This organisation is the home of <i> open source</i>! Make Pull Requests, open Issues, share ideas, help each other and make improvements!</p>
+    I am a data scientist and also a student at the Siberian Federal University. I specialize in Computer Vision, but I'm studying NLP right now.
+    <p>  I am a data scientist and also a student at the Siberian Federal University. I specialize in Computer Vision, but I'm studying NLP right now.
 </div>
 <h2>Steps to get started</h2>
 <ol>
