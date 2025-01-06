@@ -3,18 +3,18 @@
 
   ## I am a data scientist and also a student at the Siberian Federal University. I specialize in Computer Vision, but studying NLP right now.
 </div>
-<h3>My stats</h3>
+<h2>My stats</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BombasticFantastik&layout=compact) 
 
-![BombasticFantastik's GitHub stats](https://github-readme-stats.vercel.app/apiusername=BombasticFantastik&show_icons=true&theme=radical)
+![BombasticFantastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=BombasticFantastik&show_icons=true&theme=radical)
 
-<h3>Python Frameworks that I work with</h3>
+<h2>Python Frameworks that I work with</h2>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-<h3>I also work with</h3>
+<h2>I also work with</h2>
 
-<h3>My favorite projects</h3>
+<h2>My favorite projects</h2>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BombasticFantastik&repo=Dop_Zadanie)](https://github.com/BombasticFantastik/Dop_Zadanie.git)
 
 
