@@ -2,7 +2,6 @@ My name is Artemy.
 
 <div align="center">
     <h1>Collaboration 1st, Code 2nd!</h1>
-    <img src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif" />
     <h6>
         <img src="https://github.com/EddieHubCommunity.png" height="60" /> Meet Hubber! Our Mascot! 🤝 <img src="https://github.com/EddieHubCommunity.png" height="60" />
     </h6>
