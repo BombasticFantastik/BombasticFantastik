@@ -23,5 +23,3 @@
 <h2>My favorite projects</h2>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BombasticFantastik&repo=Dop_Zadanie)](https://github.com/BombasticFantastik/Dop_Zadanie.git)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+science+forever)](https://git.io/typing-svg)
