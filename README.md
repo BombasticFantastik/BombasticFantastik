@@ -1,6 +1,7 @@
+### I am a data scientist and also a student at the Siberian Federal University. I specialize in Computer Vision, but I'm studying NLP right now.
 <div align="center">
     <h1>Hi, my name is Artemy!</h1>
-    ##I am a data scientist and also a student at the Siberian Federal University. I specialize in Computer Vision, but I'm studying NLP right now.
+    ### I am a data scientist and also a student at the Siberian Federal University. I specialize in Computer Vision, but I'm studying NLP right now.
 </div>
 <h2>My stats</h2>
 
