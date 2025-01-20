@@ -23,6 +23,3 @@
 <h2>My favorite projects</h2>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BombasticFantastik&repo=Dop_Zadanie)](https://github.com/BombasticFantastik/Dop_Zadanie.git)
 
-### 
-
-![](https://komarev.com/ghpvc/?username=BombasticFantastik&style=for-the-badge)
