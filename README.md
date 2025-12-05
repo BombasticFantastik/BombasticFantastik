@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, my name is Artemy!👋. A Data Scientist, C# Backend Devoloper and also a student at the Siberian Federal University.</h1>
+  <h1>Hi, my name is Artemy!👋. A Data Scientist, Python Devoloper and also a student at the Siberian Federal University.</h1>
 
   
 </div>
